@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan Pasha</h1>
-<h3 align="center">Aspiring DevOps Engineer from India 🇮🇳</h3>
+<h3 align="center">Aspiring DevOps Engineer from India </h3>
 
 ---
 
